@@ -1,0 +1,43 @@
+h1,h2{
+	margin-bottom: 60px;
+	width: 777px;
+	margin: 60px auto;
+}
+
+h2{
+	text-align: center;
+}
+
+
+img{
+	margin:  0 auto;
+	width: 315px;
+	display: block;
+}
+
+
+
+.button{
+	width: 315px;
+    position: relative;
+    left: -15px;
+    height: 40px;
+}
+
+
+.github{
+	position: absolute;
+	top: 0;
+	right: 0;
+	font-size: 20px;
+	padding: 20px;
+	background: #439d43;
+	color:white;
+}
+
+
+
+form{
+	width: 300px;
+	margin: 0 auto;
+}
